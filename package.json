@@ -1,0 +1,22 @@
+{
+  "name": "terminal-weather-axios-fbw9",
+  "version": "1.0.0",
+  "description": "Schreib ein Terminal-Programm, das das Wetter für eine Stadt anzeigen kann. Es sollte als Parameter den Namen der Stadt annehmen. Um die Wetter-Info zu laden, kannst du die [`OpenWeather`](https://openweathermap.org/guide)-API benutzen.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbw9dus/terminal-weather-axios-fbw9.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fbw9dus/terminal-weather-axios-fbw9/issues"
+  },
+  "homepage": "https://github.com/fbw9dus/terminal-weather-axios-fbw9#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
